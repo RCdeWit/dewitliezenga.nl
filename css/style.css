@@ -1,0 +1,89 @@
+/* Created by Rob C. de Wit 2021 */
+/* Feel free to use this CSS under the Creative Commons Attribution-ShareAlike 4.0 International License. */
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #151515;
+	background-color:#fefefe;
+	margin: auto;
+	max-width: 600px;
+}
+
+h1 {
+	font-family: 'Merriweather', serif;
+	font-size: 300%;
+	/* margin-bottom: -10px; */
+	margin: 0 0 0.2em;
+}
+
+h2 {
+	font-family: 'Merriweather', serif;
+	font-size: 150%;
+	margin: 0rem 0 0.5em;
+}
+
+p {
+	margin-bottom: 1em;
+	line-height: 1.5;
+}
+span {
+	display: inline;
+}
+
+ul {
+	list-style: none;
+    padding-left: 0;
+}
+
+li {
+	margin-bottom: 0.2rem;
+	line-height: 1.5;
+}
+
+li span.timetable-time {
+	display: inline;
+	margin-right: 1rem;
+	font-weight: bold;
+}
+
+li span.timetable-entry {
+	display: inline;
+	margin-right: 2rem;
+}
+
+a:link {
+	color: #f04;
+}
+
+a:hover, a:visited  {
+	color: #7209b7;
+}
+
+.container {
+	text-align: left;
+	margin: 5%;
+}
+
+.photo {
+	text-align: center;
+	margin-bottom: 3.5em;
+}
+
+.photo img.couple-picture {
+    width: 100%;
+    max-width: 250px;
+    border-radius: 8px;
+}
+
+.countdown-timer {
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	font-size: 200%;
+	margin-bottom: 2rem;
+}
+
+.extra-info{
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	font-size: 150%;
+}

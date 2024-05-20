@@ -1,2 +1,2 @@
 # dewitliezenga.nl
-Personal website
+Personal website for our wedding planning.
