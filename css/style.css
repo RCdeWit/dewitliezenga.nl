@@ -103,3 +103,19 @@ a:hover, a:visited  {
 		flex: 0 0 600px;
 	}
 }
+
+.form-container {
+	line-height: 1.5rem;
+}
+
+.form-container label {
+	display: block;
+}
+
+.form-container .row label {
+	display: block;
+}
+
+.form-container .row input {
+	display: block;
+}
